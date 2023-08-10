@@ -13,6 +13,6 @@ This repository contains a Svelte project integrated with Firebase and OpenRepla
 To clone the repository and install dependencies, run the following commands:
 
 ```bash
-git clone https://github.com/ambassadorchinatu/svelte-error-demo
+git clone https://github.com/ambassadorchinatu/svelte-error-demo.git
 cd svelte-error-demo
 yarn install
